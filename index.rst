@@ -5,7 +5,7 @@
 
 .. _index:
 
-.. image:: /images/extcore.png
+.. image:: /images/honey1.jpg
 
 ExtCore Framework
 =================
